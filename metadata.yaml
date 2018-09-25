@@ -1,0 +1,30 @@
+_repo: The-Napoleon-Gallery-or-Illustrations-of-the-life-and-times-of-the-emperor-of-France_57483
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Réveil, Etienne Achille
+    aliases:
+    - Réveil, Achille
+    - Reveil, Achille
+    - Reveil, Etienne Achille
+    birthdate: 1800
+    deathdate: 1851
+    gutenberg_agent_id: '49409'
+    url: http://www.gutenberg.org/2009/agents/49409
+description: ''
+gutenberg_issued: '2018-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57483'
+  lccn: 04027185
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Portraits, caricatures, etc.'
+- !lcc 'DC'
+- GITenberg
+title: "The Napoleon Gallery\r\nor, Illustrations of the life and times of the emperor\
+  \ of France"
+url: http://www.gutenberg.org/ebooks/57483
