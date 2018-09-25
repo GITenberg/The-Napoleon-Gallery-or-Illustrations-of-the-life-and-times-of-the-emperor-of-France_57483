@@ -1,5 +1,8 @@
 _repo: The-Napoleon-Gallery-or-Illustrations-of-the-life-and-times-of-the-emperor-of-France_57483
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57483-h/images/cover.jpg
 creator:
   author:
     agent_name: Réveil, Etienne Achille
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '49409'
     url: http://www.gutenberg.org/2009/agents/49409
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57483#The-Napoleon-Gallery-or-Illustrations-of-the-life-and-times-of-the-emperor-of-France
 gutenberg_issued: '2018-07-11'
 gutenberg_type: Text
 identifiers:
